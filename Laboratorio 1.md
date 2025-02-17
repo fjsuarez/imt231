@@ -1,6 +1,9 @@
 # Laboratorio 1: GitHub
 ## Guía de instrucciones
 
+Para este laboratorio, usar `git` desde WSL. También se puede realizar desde Windows si es que [Git for Windows](https://git-scm.com/downloads/win) está instalado.
+
+
 Presentar un informe con capturas de pantalla en las partes indicadas:
 
 ### Parte 1: Crear una cuenta y un repositorio en Github
