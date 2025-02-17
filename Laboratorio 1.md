@@ -1,7 +1,7 @@
 # Laboratorio 1: GitHub
 ## Guía de instrucciones
 
-Para este laboratorio, usar `git` desde WSL. También se puede realizar desde Windows si es que [Git for Windows](https://git-scm.com/downloads/win) está instalado.
+Para este laboratorio, usar `git` desde WSL. Es necesario instalar [Git for Windows](https://git-scm.com/downloads/win) para tener Git Credential Manager (GCM) que gestionará la autenticación.
 
 
 Presentar un informe con capturas de pantalla en las partes indicadas:
