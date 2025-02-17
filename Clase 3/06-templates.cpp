@@ -25,14 +25,14 @@ int main() {
     std::cout << "Max of doubles: " << maxDouble << std::endl;
 
     // Using findMax with strings
-    std::string maxString = findMax(std::string("apple"), std::string("banana"));
+    std::string maxString = findMax(std::string("banana"), std::string("bananas"));
     std::cout << "Max of strings: " << maxString << std::endl;
 
     // Using swapValues with integers
     int x = 5, y = 10;
     std::cout << "\nBefore swap: x = " << x << ", y = " << y << std::endl;
     swapValues(x, y);
-    std::cout << "After swap: x = " << x << ", y = << y" << std::endl;
+    std::cout << "After swap: x = " << x << ", y = " << y << std::endl;
 
     // Using swapValues with doubles
     double a = 2.5, b = 7.8;
