@@ -35,7 +35,7 @@ Incluir una captura de la terminal o del explorador con el repositorio clonado.
 
 ### Parte 2: Inicializar un repositorio localmente y sincronizarlo con Github
 
-NOTA: Éste es un repositorio distinta al de la anterior parte.
+NOTA: Éste es un repositorio distinto al de la anterior parte.
 
 1.  **Inicializar un repositorio localmente:**
     *   Abre tu terminal o línea de comandos.
