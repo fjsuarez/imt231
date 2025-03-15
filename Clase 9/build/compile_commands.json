@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/fjsuarez/imt231/Clase 9/build",
+  "command": "/usr/bin/g++  -I\"/home/fjsuarez/imt231/Clase 9/include\" -O3 -DNDEBUG -o CMakeFiles/MiPrograma.dir/src/main.cpp.o -c \"/home/fjsuarez/imt231/Clase 9/src/main.cpp\"",
+  "file": "/home/fjsuarez/imt231/Clase 9/src/main.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/Clase 9/build",
+  "command": "/usr/bin/g++  -I\"/home/fjsuarez/imt231/Clase 9/include\" -O3 -DNDEBUG -o CMakeFiles/MiPrograma.dir/src/Saludo.cpp.o -c \"/home/fjsuarez/imt231/Clase 9/src/Saludo.cpp\"",
+  "file": "/home/fjsuarez/imt231/Clase 9/src/Saludo.cpp"
+}
+]

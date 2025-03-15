@@ -1,0 +1,1 @@
+/usr/bin/g++ -O3 -DNDEBUG CMakeFiles/MiPrograma.dir/src/main.cpp.o CMakeFiles/MiPrograma.dir/src/Saludo.cpp.o -o MiPrograma 
