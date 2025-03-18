@@ -62,5 +62,6 @@
         "ratio": "cpp",
         "ranges": "cpp",
         "valarray": "cpp"
-    }
+    },
+    "cmake.ignoreCMakeListsMissing": true
 }
