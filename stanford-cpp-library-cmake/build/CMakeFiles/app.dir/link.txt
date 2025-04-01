@@ -1,0 +1,1 @@
+/usr/bin/g++  -ldl -lpthread -g CMakeFiles/app.dir/src/linked_lists.cpp.o -o app  libstanford.a 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -ldl -lpthread CMakeFiles/app.dir/src/binary_search.cpp.o -o app  libstanford.a 

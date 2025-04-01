@@ -1,0 +1,4 @@
+/home/fjsuarez/imt231/stanford-cpp-library-cmake/build/CMakeFiles/rebuild_cache.dir
+/home/fjsuarez/imt231/stanford-cpp-library-cmake/build/CMakeFiles/edit_cache.dir
+/home/fjsuarez/imt231/stanford-cpp-library-cmake/build/CMakeFiles/app.dir
+/home/fjsuarez/imt231/stanford-cpp-library-cmake/build/CMakeFiles/stanford.dir

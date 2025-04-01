@@ -1,0 +1,217 @@
+[
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/collections/basicgraph.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/basicgraph.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/basicgraph.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/collections/dawglexicon.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/dawglexicon.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/dawglexicon.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/collections/hashcode.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/hashcode.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/hashcode.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/collections/lexicon.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/lexicon.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/lexicon.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/collections/shuffle.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/shuffle.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/collections/shuffle.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gbufferedimage.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gbufferedimage.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gbufferedimage.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gevents.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gevents.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gevents.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gfilechooser.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gfilechooser.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gfilechooser.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/ginteractors.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/ginteractors.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/ginteractors.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gobjects.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gobjects.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gobjects.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/goptionpane.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/goptionpane.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/goptionpane.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gtable.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtable.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtable.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gtextarea.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtextarea.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtextarea.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gtimer.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtimer.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtimer.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gtypes.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtypes.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gtypes.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/graphics/gwindow.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gwindow.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/graphics/gwindow.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/base64.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/base64.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/base64.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/bitstream.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/bitstream.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/bitstream.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/console.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/console.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/console.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/filelib.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/filelib.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/filelib.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/plainconsole.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/plainconsole.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/plainconsole.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/server.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/server.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/server.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/simpio.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/simpio.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/simpio.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/tokenscanner.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/tokenscanner.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/tokenscanner.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/io/urlstream.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/urlstream.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/io/urlstream.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/private/platform.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/private/platform.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/private/platform.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/private/version.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/private/version.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/private/version.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/system/call_stack_gcc.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/call_stack_gcc.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/call_stack_gcc.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/system/call_stack_windows.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/call_stack_windows.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/call_stack_windows.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/system/error.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/error.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/error.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/system/exceptions.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/exceptions.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/system/exceptions.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/direction.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/direction.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/direction.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/gmath.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/gmath.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/gmath.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/note.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/note.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/note.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/observable.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/observable.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/observable.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/point.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/point.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/point.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/random.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/random.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/random.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/recursion.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/recursion.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/recursion.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/regexpr.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/regexpr.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/regexpr.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/sound.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/sound.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/sound.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/strlib.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/strlib.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/strlib.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/timer.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/timer.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib/util/timer.cpp"
+},
+{
+  "directory": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/build",
+  "command": "/usr/bin/g++  -I/home/fjsuarez/imt231/stanford-cpp-library-cmake/lib/StanfordCPPLib  -ldl -lpthread -g -std=gnu++17 -o CMakeFiles/app.dir/src/linked_lists.cpp.o -c /home/fjsuarez/imt231/stanford-cpp-library-cmake/src/linked_lists.cpp",
+  "file": "/home/fjsuarez/imt231/stanford-cpp-library-cmake/src/linked_lists.cpp"
+}
+]
