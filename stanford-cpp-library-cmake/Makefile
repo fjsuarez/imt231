@@ -1150,29 +1150,29 @@ lib/StanfordCPPLib/util/timer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/stanford.dir/build.make CMakeFiles/stanford.dir/lib/StanfordCPPLib/util/timer.cpp.s
 .PHONY : lib/StanfordCPPLib/util/timer.cpp.s
 
-src/binary_search.o: src/binary_search.cpp.o
-.PHONY : src/binary_search.o
+src/graphs.o: src/graphs.cpp.o
+.PHONY : src/graphs.o
 
 # target to build an object file
-src/binary_search.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/binary_search.cpp.o
-.PHONY : src/binary_search.cpp.o
+src/graphs.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/graphs.cpp.o
+.PHONY : src/graphs.cpp.o
 
-src/binary_search.i: src/binary_search.cpp.i
-.PHONY : src/binary_search.i
+src/graphs.i: src/graphs.cpp.i
+.PHONY : src/graphs.i
 
 # target to preprocess a source file
-src/binary_search.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/binary_search.cpp.i
-.PHONY : src/binary_search.cpp.i
+src/graphs.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/graphs.cpp.i
+.PHONY : src/graphs.cpp.i
 
-src/binary_search.s: src/binary_search.cpp.s
-.PHONY : src/binary_search.s
+src/graphs.s: src/graphs.cpp.s
+.PHONY : src/graphs.s
 
 # target to generate assembly for a file
-src/binary_search.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/binary_search.cpp.s
-.PHONY : src/binary_search.cpp.s
+src/graphs.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/app.dir/build.make CMakeFiles/app.dir/src/graphs.cpp.s
+.PHONY : src/graphs.cpp.s
 
 # Help Target
 help:
@@ -1310,9 +1310,9 @@ help:
 	@echo "... lib/StanfordCPPLib/util/timer.o"
 	@echo "... lib/StanfordCPPLib/util/timer.i"
 	@echo "... lib/StanfordCPPLib/util/timer.s"
-	@echo "... src/binary_search.o"
-	@echo "... src/binary_search.i"
-	@echo "... src/binary_search.s"
+	@echo "... src/graphs.o"
+	@echo "... src/graphs.i"
+	@echo "... src/graphs.s"
 .PHONY : help
 
 

@@ -63,6 +63,60 @@ class Grafo {
                 cout << "Nodo " << actual << " visitado" << endl;
             }
         }
+
+        int BFS(int inicial, int objetivo) {
+            Set<int> visitado; // conjunto cerrado
+            Queue<int> frontera;
+            // Stack<int> frontera;
+            frontera.enqueue(inicial);
+            // frontera.push(inicial);
+            visitado.add(inicial);
+
+            while (!frontera.isEmpty()) {
+                cout << "Frontera: " << frontera.toString() << endl;
+                int actual = frontera.dequeue();
+                // int actual = frontera.pop();
+                if (actual == objetivo) {
+                    cout << "Nodo " << actual << " encontrado" << endl;
+                    return actual;
+                }
+
+                for (int vertice : this->obtenerVecinos(actual)) {
+                    if (!visitado.contains(vertice)) {
+                        frontera.enqueue(vertice);
+                        // frontera.push(vertice);
+                        visitado.add(vertice);
+                    }
+                }
+                cout << "Nodo " << actual << " visitado" << endl;
+            }
+            return -1; // No encontrado
+        }
+
+        int DFS(int inicial, int objetivo) {
+            Set<int> visitado; // conjunto cerrado
+            Stack<int> frontera;
+            frontera.push(inicial);
+            visitado.add(inicial);
+
+            while (!frontera.isEmpty()) {
+                cout << "Frontera: " << frontera.toString() << endl;
+                int actual = frontera.pop();
+                if (actual == objetivo) {
+                    cout << "Nodo " << actual << " encontrado" << endl;
+                    return actual;
+                }
+
+                for (int vertice : this->obtenerVecinos(actual)) {
+                    if (!visitado.contains(vertice)) {
+                        frontera.push(vertice);
+                        visitado.add(vertice);
+                    }
+                }
+                cout << "Nodo " << actual << " visitado" << endl;
+            }
+            return -1; // No encontrado
+        }
 };      
 
 // [ _ _ _ _ _ _ _ _ ]
@@ -92,5 +146,9 @@ int main() {
     cout << g.lista_adyacencia.toString() << endl;
 
     g.recorrerGrafo(0);
+    cout << "Buscando BFS 4..." << endl;
+    g.BFS(0, 4); // O(d*b) d = profundidad, b = factor de ramificacion
+    cout << "Buscando DFS 4..." << endl;
+    g.DFS(0, 4);
     return 0;
 }

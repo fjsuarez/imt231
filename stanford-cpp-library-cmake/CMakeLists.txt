@@ -20,6 +20,6 @@ file(GLOB stanford_files
         )
 add_library(stanford ${stanford_files})
 
-set(app_SOURCES src/binary_search.cpp)
+set(app_SOURCES src/graphs.cpp)
 link_libraries(stanford)
 add_executable(app ${app_SOURCES})
