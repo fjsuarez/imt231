@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.ts": "typescript",
         "limits": "cpp",
         "ostream": "cpp",
         "array": "cpp",
@@ -61,7 +62,19 @@
         "map": "cpp",
         "ratio": "cpp",
         "ranges": "cpp",
-        "valarray": "cpp"
+        "valarray": "cpp",
+        "bitset": "cpp",
+        "condition_variable": "cpp",
+        "csignal": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "regex": "cpp",
+        "mutex": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp",
+        "thread": "cpp",
+        "cinttypes": "cpp"
     },
     "cmake.ignoreCMakeListsMissing": true
 }
