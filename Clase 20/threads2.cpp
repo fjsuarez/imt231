@@ -24,7 +24,7 @@ void simular_trabajo_bd(int id_hilo) {
     mt19937 gen(rd());
     uniform_int_distribution<> distribucion(100, 500);
     cout << "Hilo " << id_hilo << ": Intentando iniciar conexión a la base de datos..." << endl;
-    conexiones_activas++;
+    conexiones_activas++; // Region crítica
     int conteo_actual = conexiones_activas.load();
     if (conteo_actual > MAX_CONEXIONES) {
         cerr << "Hilo " << id_hilo << ": Límite de conexiones alcanzado: " << conteo_actual << " El limite es " << MAX_CONEXIONES << endl;
