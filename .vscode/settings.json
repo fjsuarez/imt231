@@ -74,7 +74,9 @@
         "semaphore": "cpp",
         "stop_token": "cpp",
         "thread": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "future": "cpp",
+        "chrono": "cpp"
     },
     "cmake.ignoreCMakeListsMissing": true
 }
