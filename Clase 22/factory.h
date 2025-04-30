@@ -69,3 +69,27 @@ class CommFactory {
             }
         }
 };
+
+// #include <factory.h>
+
+// int main() {
+//     // Crear un objeto de comunicación UART
+//     auto uart = CommFactory::crearComunicacion(CommType::UART);
+//     std::string data = "Hola UART";
+//     uart->enviar(data, data.size());
+//     uart->recibir(data, data.size());
+
+//     // Crear un objeto de comunicación SPI
+//     auto spi = CommFactory::crearComunicacion(CommType::SPI);
+//     data = "Hola SPI";
+//     spi->enviar(data, data.size());
+//     spi->recibir(data, data.size());
+
+//     // Crear un objeto de comunicación I2C
+//     auto i2c = CommFactory::crearComunicacion(CommType::I2C);
+//     data = "Hola I2C";
+//     i2c->enviar(data, data.size());
+//     i2c->recibir(data, data.size());
+
+//     return 0;
+// }

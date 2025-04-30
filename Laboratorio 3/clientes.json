@@ -1,0 +1,30 @@
+[
+    {
+      "nombre": "Pedro",
+      "numeroTickets": 2,
+      "tiempoEnTienda": 0.4,
+      "retrasoIngreso": 0.0,
+      "VIP": false
+    },
+    {
+      "nombre": "Alejandro",
+      "numeroTickets": 4,
+      "tiempoEnTienda": 0.2,
+      "retrasoIngreso": 4.3,
+      "VIP": true
+    },
+    {
+      "nombre": "Carolina",
+      "numeroTickets": 2,
+      "tiempoEnTienda": 2,
+      "retrasoIngreso": 1.5,
+      "VIP": true
+    },
+    {
+      "nombre": "Diego",
+      "numeroTickets": 2,
+      "tiempoEnTienda": 3.0,
+      "retrasoIngreso": 0.2,
+      "VIP": false
+    }
+  ]

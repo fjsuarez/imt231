@@ -13,5 +13,14 @@ Este patrón nos permite desacoplar la creación de instancias de su uso. Si nec
 
 ## 2. Patrones estructurales
 
+### Decorador
+
+Agregar funcionalidad adicional a una clase o función ya existente. Podemos combinar múltiples decoradores.
+
+### Adaptador
+
+### Fachada
+
+
 ## 3. Patrones de comportamiento
 
