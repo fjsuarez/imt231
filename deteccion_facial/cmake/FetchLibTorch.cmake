@@ -1,0 +1,6 @@
+set(LIBTORCH_DIR "/home/fjsuarez/deteccion_facial/libtorch")
+list(APPEND CMAKE_PREFIX_PATH "${LIBTORCH_DIR}")
+
+find_package(Torch REQUIRED)
+set(TORCH_LIBRARIES ${TORCH_LIBRARIES} CACHE INTERNAL "")
+set(TORCH_INCLUDE_DIRS ${TORCH_INCLUDE_DIRS} CACHE INTERNAL "")

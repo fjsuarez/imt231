@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/align.cpp.o -c /home/fjsuarez/deteccion_facial/src/align.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/align.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/align.cpp.o"
+},
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/camera.cpp.o -c /home/fjsuarez/deteccion_facial/src/camera.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/camera.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/dataset_csv.cpp.o -c /home/fjsuarez/deteccion_facial/src/dataset_csv.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/dataset_csv.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/dataset_csv.cpp.o"
+},
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/detect.cpp.o -c /home/fjsuarez/deteccion_facial/src/detect.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/detect.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/detect.cpp.o"
+},
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/main.cpp.o -c /home/fjsuarez/deteccion_facial/src/main.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/main.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/fjsuarez/deteccion_facial",
+  "command": "/usr/bin/c++ -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -I/home/fjsuarez/deteccion_facial/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include -isystem /home/fjsuarez/deteccion_facial/libtorch/include/torch/csrc/api/include -isystem /usr/local/include/opencv4 -std=gnu++20 -D_GLIBCXX_USE_CXX11_ABI=1 -o CMakeFiles/hello_image.dir/src/preprocess.cpp.o -c /home/fjsuarez/deteccion_facial/src/preprocess.cpp",
+  "file": "/home/fjsuarez/deteccion_facial/src/preprocess.cpp",
+  "output": "CMakeFiles/hello_image.dir/src/preprocess.cpp.o"
+}
+]
